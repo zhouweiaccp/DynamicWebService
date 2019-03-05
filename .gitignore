@@ -1,12 +1,14 @@
 # Compiled class file
 *.class
-
+.vs/*
 # Log file
 *.log
-
+bin/*
+obj/*
 # BlueJ files
 *.ctxt
-
+DynamicWebService/bin/*
+DynamicWebService/obj/*
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 

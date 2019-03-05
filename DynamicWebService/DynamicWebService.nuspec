@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>zhouwei</authors>
+    <owners>zhouwei</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/zhouweiaccp/DynamicWebService</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>动态调用WebService动态调用地址.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Dynamic WebService</tags>
+  </metadata>
+</package>
