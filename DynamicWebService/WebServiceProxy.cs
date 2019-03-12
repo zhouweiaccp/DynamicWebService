@@ -318,6 +318,7 @@ namespace DynamicWebService
         {
             Assembly serviceAsm = Assembly.LoadFrom(this._assPath);
             _typeName = serviceAsm.GetType();// MISConfig.GetInstance().db.Database);
+            this.initTypeName();
         }
         private void CreateDllAssembly()
         {
